@@ -147,3 +147,5 @@ The percentage of successfull startup is 67.39%
 The number of startup which predicted success using Random Forest model are 622 out of 923 startups
 Score difference between prediction and real percentage is 2.71 %
 It's about 25 startups that supposed to be failed but predicted success by the model
+
+TEST BY ME
